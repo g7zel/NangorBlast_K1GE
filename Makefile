@@ -1,7 +1,7 @@
 .PHONY: build run test package clean help
 
 help:
-	@echo "make build   - compile"
+	@echo "make build    - compile"
 	@echo "make run      - jalankan game"
 	@echo "make test     - jalankan unit test"
 	@echo "make package  - buat target/nangor-blast.jar"

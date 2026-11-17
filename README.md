@@ -55,16 +55,16 @@ Urut berdasarkan NIM.
 ## Status fitur
 | Kode | Fitur | Penanggung jawab | Status |
 |------|-------|------------------|--------|
-| F00 | Inisialisasi & validasi map | Tristan | Belum |
-| F01 | Player | Fayza | Implementasi awal + unit test (belum di-merge) |
-| F02 | Bomb (Normal, Pumped, Remote) | Omerio | Belum |
-| F03 | Explosion | Omerio | Belum |
-| F04 | Block | Omerio | Belum |
-| F05 | Enemy & Boss Mantis | Jason | Belum |
-| F06 | Power-Up | Tristan | Belum |
-| F07 | Map White Glacier (Ice Tile) | Tristan | Belum |
-| F08 | Score | Fayza | Implementasi awal + unit test (belum di-merge) |
-| F09 | Game flow (menu, pause, win/lose) | Fayza | Implementasi awal + unit test (belum di-merge) |
+| F00 | Inisialisasi & validasi map | Tristan | Kerangka class |
+| F01 | Player | Fayza | Kerangka class |
+| F02 | Bomb (Normal, Pumped, Remote) | Omerio | Kerangka class |
+| F03 | Explosion | Omerio | Kerangka class |
+| F04 | Block | Omerio | Kerangka class |
+| F05 | Enemy & Boss Mantis | Jason | Kerangka class |
+| F06 | Power-Up | Tristan | Kerangka class |
+| F07 | Map White Glacier (Ice Tile) | Tristan | Kerangka class |
+| F08 | Score | Fayza | Kerangka class |
+| F09 | Game flow (menu, pause, win/lose) | Fayza | Kerangka class |
 | B01-B05 | Bonus | - | Belum dipilih |
 
 Alur kerja Git ada di [CONTRIBUTING.md](CONTRIBUTING.md).

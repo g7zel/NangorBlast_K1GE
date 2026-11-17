@@ -1,3 +1,7 @@
+/*
+ * NIM  :
+ * Nama :
+ */
 package nangorblast.score;
 
 /**

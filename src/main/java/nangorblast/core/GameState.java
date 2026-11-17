@@ -1,3 +1,7 @@
+/*
+ * NIM  :
+ * Nama :
+ */
 package nangorblast.core;
 
 /** Kondisi permainan (F09.2). */

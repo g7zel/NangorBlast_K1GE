@@ -1,3 +1,7 @@
+/*
+ * NIM  :
+ * Nama :
+ */
 package nangorblast.model.powerup;
 
 /** Jenis Power-Up (F06.2). */

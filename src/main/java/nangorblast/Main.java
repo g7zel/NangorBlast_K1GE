@@ -1,3 +1,7 @@
+/*
+ * NIM  :
+ * Nama :
+ */
 package nangorblast;
 
 /** Entry point Nangor Blast. */
